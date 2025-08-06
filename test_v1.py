@@ -14,4 +14,4 @@ print('Hello again! No 3')
 print('nova promjena.')
 # novi komentar.
 
-print*('nova promjena od MM.') 
+print*('nova promjena od Mareka.') 
