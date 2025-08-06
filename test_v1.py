@@ -14,4 +14,4 @@ print('Hello again! No 3')
 print('nova promjena.')
 # novi komentar.
 
-print*('nova promjena od Mareka.') 
+print*('nova promjena od Mareka.') #marekov kod od 6.8.2025: 22:13
