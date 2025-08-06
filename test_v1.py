@@ -1,0 +1,8 @@
+print('hello world')
+# folder -> global
+# workspace -> local (settings)
+
+# github config
+
+# 1 GIT (nije isto što i git hub)
+print('Hello again!')
