@@ -16,6 +16,12 @@ Projektni snapshot - save.
 - git commit -m "Obvezan message"
 
 ## Push 
-- git push
+- git push origin main
 
+## Remote
+Verzija repozitorija koja je online - pohranjena na nekakvom serveru (npr. Git Hub).
+- git repo create my-repo-name --remote=origin
 
+## Pull
+Preuzimanje promjena s remote (daljinskog) repozitorija.
+- git pull
