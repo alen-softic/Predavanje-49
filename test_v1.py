@@ -6,3 +6,5 @@ print('hello world')
 
 # 1 GIT (nije isto što i git hub)
 print('Hello again!')
+
+print('Hello again! No 3')

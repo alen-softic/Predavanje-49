@@ -15,4 +15,7 @@ Projektni snapshot - save.
 ### Commit
 - git commit -m "Obvezan message"
 
+## Push 
+- git push
+
 
