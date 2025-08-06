@@ -8,3 +8,4 @@ print('hello world')
 print('Hello again!')
 
 print('Hello again! No 3')
+# ovo je skripta A.S.
