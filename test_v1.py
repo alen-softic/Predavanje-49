@@ -19,3 +19,4 @@ print('posljednja promjena.')
 print('promjena 7.8.2025 19:24')
 
 print('new feature on new branch')
+print('new commit on new branch')
